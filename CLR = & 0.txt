@@ -1,0 +1,11 @@
+CLR = &0
+Test = &1
+Set = |1
+tog = ^1
+operator precedence:
+() 
+*
+/
+%
++
+-
